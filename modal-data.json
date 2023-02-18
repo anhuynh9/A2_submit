@@ -1,0 +1,39 @@
+{
+    "awards": {
+        "wins": 1,
+        "nominations": 0,
+        "text": "1 win."
+    },
+    "imdb": {
+        "rating": 4.9,
+        "votes": 827,
+        "id": 241763
+    },
+    "tomatoes": {
+        "lastUpdated": "2012-09-30T00:00:00.000Z"
+    },
+    "cast": [],
+    "_id": "573a13a3f29313caabd0d5a4",
+    "plot": "An athlete swings Indian clubs.",
+    "genres": [
+        "Documentary",
+        "Short"
+    ],
+    "runtime": 1,
+    "title": "Newark Athlete",
+    "num_mflix_comments": 1,
+    "countries": [
+        "USA"
+    ],
+    "fullplot": "A young man stands before the camera holding a club in each hand, horizontal to the ground. He raises the heads of the two clubs in unison, by rotating the clubs without lifting his arms. The film then shows the same footage over again, at different speeds.",
+    "languages": [
+        "English"
+    ],
+    "directors": [
+        "William K.L. Dickson"
+    ],
+    "rated": "NOT RATED",
+    "lastupdated": "2015-08-03T04:57:26.680Z",
+    "year": 1891,
+    "type": "movie"
+}
